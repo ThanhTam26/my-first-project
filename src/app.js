@@ -21,15 +21,15 @@ function App() {
 const styles = {
   container: {
     textAlign: 'center',
-    marginTop: '100px',
+    marginTop: '90px',
     fontFamily: 'Arial, sans-serif',
   },
   counter: {
-    fontSize: '48px',
+    fontSize: '40px',
     margin: '20px 0',
   },
   button: {
-    fontSize: '24px',
+    fontSize: '20px',
     padding: '10px 20px',
     margin: '0 10px',
     cursor: 'pointer',
